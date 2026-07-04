@@ -19,7 +19,7 @@
 
 ## 👨‍💻 About Me
 
-<img align="right" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/Coding_from_Home.gif" alt="Coding Laptop Image" width="350" />
+<img align="right" src="https://raw.githubusercontent.com/7oSkaaa/7oSkaaa/main/Images/about_me.gif" width="350" alt="Coding Setup" />
 
 * 🎓 Pursuing B.Tech in Artificial Intelligence and Machine Learning at NIT Sikkim (2024–2028) | CGPA: 7.96
 * 🏆 Selected as an AlgoUniversity Technology Fellowship (ATF) Scholar '25 (Top 200 out of 2.5L+ applicants)
