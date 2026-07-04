@@ -43,8 +43,8 @@
 ---
 
 ## 💻 Coding Profiles
-<a href="https://www.codechef.com/users/sanjeev_717"><img src="https://img.shields.io/badge/CodeChef-1523-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
-<a href="https://codeforces.com/profile/Sanjeev_07"><img src="https://img.shields.io/badge/Codeforces-1145-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
+<a href="https://www.codechef.com/users/sanjeev_717"><img src="https://img.shields.io/badge/CodeChef-1642-5B4638?style=for-the-badge&logo=codechef&logoColor=white" /></a>
+<a href="https://codeforces.com/profile/Sanjeev_07"><img src="https://img.shields.io/badge/Codeforces-1269-1F8ACB?style=for-the-badge&logo=codeforces&logoColor=white" /></a>
 <a href="https://leetcode.com/u/Sanjeev_717/"><img src="https://img.shields.io/badge/LeetCode-Active-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" /></a>
 
 ---
