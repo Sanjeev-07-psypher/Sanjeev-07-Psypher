@@ -27,6 +27,8 @@
 * 🚀 Competitive Programmer with 500+ DSA problems solved across Atcoder, Codeforces, CodeChef, and LeetCode
 * 🧠 Passionate about building scalable architectures, AI-integrated platforms, and high-performance web applications.
 
+
+
 <br/>
 
 ## 💼 Experience & Leadership
