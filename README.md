@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>Sanjeev Kumar Gupta — Software Engineer 👨‍💻</h1>
+  <h1>Sanjeev Kumar Gupta - AI/ML Software Engineer 👨‍💻</h1>
   
   <a href="https://github.com/Sanjeev-07-psypher">
     <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00D8FF&center=true&vCenter=true&width=500&lines=AI%2FML+Engineer;Full+Stack+Developer;Competitive+Programmer" alt="Typing Animation" />
@@ -8,6 +8,7 @@
   <p>
     <a href="https://www.linkedin.com/in/sanjeev17102004/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:sanjeevkrgupta17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+    <a href="https://drive.google.com/file/d/1Upsg_rbzSs7vKEXBuCCxeIX2pybcdl-u/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
     <a href="https://github.com/Sanjeev-07-psypher"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
   
@@ -107,12 +108,9 @@
 
 ---
 
-## 💻 GitHub Activity & Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Sanjeev-07-psypher&show_icons=true&theme=radium" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Sanjeev-07-psypher&layout=compact&theme=radium" alt="Top Languages" />
-</div>
+## 🌱 Currently Exploring
+* Advanced Math and Problem Solving
+* Deep Learning
 
 <br/>
 
