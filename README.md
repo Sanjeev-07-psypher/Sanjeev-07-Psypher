@@ -23,8 +23,8 @@
 
 * 🎓 Pursuing B.Tech in Artificial Intelligence and Machine Learning at NIT Sikkim (2024–2028) | CGPA: 7.96
 * 🏆 Selected as an AlgoUniversity Technology Fellowship (ATF) Scholar '25 (Top 200 out of 2.5L+ applicants)
-* 🏅 State Topper in the NSEC Olympiad (Stage 1)
-* 🚀 Competitive Programmer with 500+ DSA problems solved across Atcoder, Codeforces, CodeChef, and LeetCode
+* 🏅 State Topper in the NSEC Olympiad 
+* 🚀 Competitive Programmer with 700+ DSA problems solved across Atcoder, Codeforces, CodeChef, and LeetCode
 * 🧠 Passionate about building scalable architectures, AI-integrated platforms, and high-performance web applications.
 
 
