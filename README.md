@@ -8,7 +8,7 @@
   <p>
     <a href="https://www.linkedin.com/in/sanjeev17102004/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
     <a href="mailto:sanjeevkrgupta17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-    <a href="https://drive.google.com/file/d/1Upsg_rbzSs7vKEXBuCCxeIX2pybcdl-u/view?usp=drivesdk"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
+    <a href="[https://drive.google.com/file/d/1Upsg_rbzSs7vKEXBuCCxeIX2pybcdl-u/view?usp=drivesdk](https://drive.google.com/file/d/1OS5UaXo18dRNzebc2eAwTCA6ZXSxosQI/view?usp=drivesdk)"><img src="https://img.shields.io/badge/Resume-4285F4?style=for-the-badge&logo=googledrive&logoColor=white" alt="Resume" /></a>
     <a href="https://github.com/Sanjeev-07-psypher"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
   </p>
   
